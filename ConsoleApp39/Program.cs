@@ -11,6 +11,7 @@ namespace ConsoleApp39
         static void Main(string[] args)
         {
             int i = 5;
+            int m = 999;
         }
     }
 }
