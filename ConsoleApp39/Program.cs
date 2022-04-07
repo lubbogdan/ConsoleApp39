@@ -12,6 +12,7 @@ namespace ConsoleApp39
         {
             int i = 5;
             int m = 999;
+            string s = "Oleh";
         }
     }
 }
